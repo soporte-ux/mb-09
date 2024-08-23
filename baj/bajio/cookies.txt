@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.bb.com.mx	TRUE	/	FALSE	1999999999	dtCookie	v_4_srv_3_sn_5995CA03893B5A99A7E80AE78ECF04D6_perc_28828_ol_1_app-3Af507313713c37c94_0
+

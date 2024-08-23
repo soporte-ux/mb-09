@@ -1,0 +1,78 @@
+/**
+ * Set default positioning as a fallback for if the plugin fails
+ */
+ .jquery-background-video-wrapper {
+	position: relative;
+	overflow: hidden;
+	background-position: center top;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	   -moz-background-size: cover;
+	    	background-size: cover;
+}
+.jquery-background-video {
+	position: absolute;
+	min-width: 100%;
+	min-height: 100%;
+	width: auto;
+	height: auto;
+	top: 50%;
+	left: 50%;
+	-o-object-fit: cover;
+	   object-fit: cover;
+	-webkit-transform: translate(-50%,-50%);
+	   -moz-transform: translate(-50%,-50%);
+	    -ms-transform: translate(-50%,-50%);
+	     -o-transform: translate(-50%,-50%);
+	    	transform: translate(-50%,-50%);
+}
+/**
+ * Fade in videos
+ * Note the .js class - so non js users still
+ * see the video
+ */
+.js .jquery-background-video {
+	opacity: 0;
+	-webkit-transition: opacity 300ms linear;
+			transition: opacity 300ms linear;
+}
+.js .jquery-background-video.is-visible {
+	opacity: 1;
+}
+
+/**
+ * Pause/play button
+ */ 
+.jquery-background-video-pauseplay {
+    position: absolute;
+    background-image: url("/cs/groups/public/documents/activo_web_bb/mgji/cmvw/~edisp/bbreplay.png") !important;
+    background-size: 100% !important;
+    border: none !important;
+    box-shadow: none !important;
+    width: 140px;
+    height: 140px;
+    top: 50% !important;
+    right: 50% !important;
+    margin-top:-70px !important;
+    margin-right:-70px !important;
+    padding: 0 !important;
+    cursor: pointer;
+    outline: none !important;
+}
+
+.jquery-background-video-pauseplay span{
+	display:none;
+}
+
+.slide{
+	width:100%;
+}
+
+@media (max-width: 640px) {
+	.jquery-background-video-pauseplay {
+    	width: 80px;
+    	height: 80px;
+    	margin-top:-40px !important;
+    	margin-right:-40px !important
+	}
+}

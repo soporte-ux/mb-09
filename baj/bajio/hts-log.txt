@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 14 Jun 2023 11:36:02 at https://www.bb.com.mx/webcenter/portal/BanBajio/home?_afrLoop=13179834994687174&_afrWindowMode=0&Adf-Window-Id=m2vngmopt&_afrPage=0&_afrFS=16&_afrMT=screen&_afrMFW=320&_afrMFH=480&_afrMFDW=320&_afrMFDH=480&_afrMFC=8&_afrMFCI=0&_afrMFM=0&_afrMFR=96&_afrMFG=0&_afrMFS=0&_afrMFO=1 https://www.bb.com.mx/ https://www.bb.com.mx/webcenter/portal/BanBajio/home https://www.bb.com.mx/webcenter/portal/BanBajio https://www.bb.com.mx/webcenter/portal https://www.bb.com.mx/webcenter +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://www.bb.com.mx/webcenter/portal/BanBajio/home?_afrLoop=13179834994687174&_afrWindowMode=0&Adf-Window-Id=m2vngmopt&_afrPage=0&_afrFS=16&_afrMT=screen&_afrMFW=320&_afrMFH=480&_afrMFDW=320&_afrMFDH=480&_afrMFC=8&_afrMFCI=0&_afrMFM=0&_afrMFR=96&_afrMFG=0&_afrMFS=0&_afrMFO=1 https://www.bb.com.mx/ https://www.bb.com.mx/webcenter/portal/BanBajio/home https://www.bb.com.mx/webcenter/portal/BanBajio https://www.bb.com.mx/webcenter/portal https://www.bb.com.mx/webcenter -O1 "F:\bajio\bajio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:36:04	Error: 	"Forbidden" (403) at link https://www.bb.com.mx/webcenter/portal/BanBajio/home?_afrLoop=13179834994687174&_afrWindowMode=0&Adf-Window-Id=m2vngmopt&_afrPage=0&_afrFS=16&_afrMT=screen&_afrMFW=320&_afrMFH=480&_afrMFDW=320&_afrMFDH=480&_afrMFC=8&_afrMFCI=0&_afrMFM=0&_afrMFR=96&_afrMFG=0&_afrMFS=0&_afrMFO=1 (from primary/primary)
+11:36:04	Warning: 	Found for https://www.bb.com.mx/
+11:36:04	Warning: 	File has moved from https://www.bb.com.mx/ to https://www.bb.com.mx/webcenter/portal/BanBajio/home
+11:36:04	Error: 	"Forbidden" (403) at link https://www.bb.com.mx/webcenter/portal/BanBajio/home (from primary/primary)
+11:36:04	Error: 	"Forbidden" (403) at link https://www.bb.com.mx/webcenter/portal/BanBajio (from primary/primary)
+11:36:04	Error: 	"Forbidden" (403) at link https://www.bb.com.mx/webcenter/portal (from primary/primary)
+11:36:04	Error: 	"Forbidden" (403) at link https://www.bb.com.mx/webcenter (from primary/primary)
+11:36:04	Warning: 	No data seems to have been transferred during this session! : restoring previous one!

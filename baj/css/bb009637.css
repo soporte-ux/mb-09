@@ -1,0 +1,181 @@
+.img-div {
+    background: url(/cs/groups/public/documents/activo_web_bb/mgji/mda5/~edisp/bb009636.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 37px;
+    height: 27px;
+    zoom: 1.1;
+   -ms-zoom: 1.1;
+   -webkit-zoom: 1.1;
+   -moz-transform:  scale(1.1,1.1);
+   -moz-transform-origin: left center;
+} 
+.ico-AED { background-position: -1px -1px; }  /* Dírham de los EAU */ 
+.ico-AFN { background-position: -1px -30px; }  /* Afganí afgano */ 
+.ico-ALL { background-position: -1px -59px; }  /* Lek albanés */ 
+.ico-AMD { background-position: -1px -87px; }  /* Dram armenio */ 
+.ico-ANG { background-position: -1px -117px; }  /* Florín holandés */ 
+.ico-AOA { background-position: -1px -146px; }  /* Kwanza angoleño */ 
+.ico-ARS { background-position: -1px -175px; }  /* Peso argentino */ 
+.ico-AUD { background-position: -1px -204px; }  /* Dólar australiano */ 
+.ico-AWG { background-position: -1px -233px; }  /* Florín holandés(Aruba) */ 
+.ico-AZN { background-position: -1px -262px; }  /* Nuevo manat azerbaiyano */ 
+.ico-BAM { background-position: -1px -291px; }  /* Marco convertible bosnio*/ 
+.ico-BBD { background-position: -1px -320px; }  /* Dólar de Barbados o Baja*/ 
+  
+.ico-BDT { background-position: -40px -1px; }  /* Taka bengalí*/ 
+.ico-BGN { background-position: -40px -30px; }  /* Leva búlgara*/ 
+.ico-BHD { background-position: -40px -59px; }  /* Dinar bareiní*/ 
+.ico-BIF { background-position: -40px -88px; }  /* Franco burundí*/ 
+.ico-BMD { background-position: -40px -117px; }  /* Dólar de las Bermudas*/ 
+.ico-BND { background-position: -40px -146px; }  /* Dólar de Brunéi*/ 
+.ico-BOB { background-position: -40px -175px; }  /* Bolíviano de Bolivia*/ 
+.ico-BRL { background-position: -40px -204px; }  /* Real brasilero*/ 
+.ico-BSD { background-position: -40px -233px; }  /* Dólar bahameño*/ 
+.ico-BTN { background-position: -40px -262px; }  /* Ngultrum butanés*/ 
+.ico-BWP { background-position: -40px -291px; }  /* Pula botsuanés*/ 
+.ico-BYN { background-position: -40px -320px; }  /* Rublo bielorruso*/ 
+  
+.ico-BZD { background-position: -79px -1px; }  /* Dólar de Belice*/ 
+.ico-CAD { background-position: -79px -30px; }  /* Dólar canadiense*/ 
+.ico-CDF { background-position: -79px -59px; }  /* Franco congolés*/ 
+.ico-CHF { background-position: -79px -88px; }  /* Franco suizo*/ 
+.ico-CLP { background-position: -79px -117px; }  /* Peso chileno*/ 
+.ico-CNY { background-position: -79px -146px; }  /* Yuan renminbi chino*/ 
+.ico-COP { background-position: -79px -175px; }  /* Peso colombiano*/ 
+.ico-CRC { background-position: -79px -204px; }  /* Colón costarricense*/ 
+.ico-CUC,
+.ico-CUP { background-position: -79px -233px; }  /* Peso convertible cubano*/ 
+.ico-CVE { background-position: -79px -262px; }  /* Escudo caboverdiano*/ 
+.ico-CZK { background-position: -79px -291px; }  /* Corona checa*/ 
+.ico-DJF { background-position: -79px -320px; }  /* Franco de Yibuti*/ 
+
+.ico-DKK { background-position: -118px -1px; }  /* Corona danesa*/ 
+.ico-DOP { background-position: -118px -30px; }  /* Peso dominicano*/ 
+.ico-DZD { background-position: -118px -59px; }  /* Dinar argelino*/ 
+.ico-EGP { background-position: -118px -88px; }  /* Libra egipcia*/ 
+.ico-ERN { background-position: -118px -117px; }  /* Nakfa eritreo*/ 
+.ico-ETB { background-position: -118px -146px; }  /* Birr Etíope*/ 
+.ico-EUR { background-position: -118px -175px; }  /* Euro*/ 
+.ico-FJD { background-position: -118px -204px; }  /* Dólar fiyiano*/ 
+.ico-FKP { background-position: -118px -233px; }  /* Libra esterlina de las Islas Falkland (Malvinas)*/ 
+.ico-GBP { background-position: -118px -262px; }  /* Libra esterlina*/ 
+.ico-GEL { background-position: -118px -291px; }  /* Lari georgiano*/ 
+.ico-GGP { background-position: -118px -320px; }  /* Libra de Guernsey*/ 
+
+.ico-GHS { background-position: -157px -1px; }  /* Cedi ghanés*/ 
+.ico-GIP { background-position: -157px -30px; }  /* Libra gibraltareña*/ 
+.ico-GMD { background-position: -157px -59px; }  /* Dalasi gambiano*/ 
+.ico-GNF { background-position: -157px -88px; }  /* Franco de Guinea*/ 
+.ico-GTQ { background-position: -157px -117px; }  /* Quetzal guatemalteco*/ 
+.ico-GYD { background-position: -157px -146px; }  /* Dólar guyanés*/ 
+.ico-HKD { background-position: -157px -175px; }  /* Dólar de Hong Kong*/ 
+.ico-HNL { background-position: -157px -204px; }  /* Lempira hondureño*/ 
+.ico-HRK { background-position: -157px -233px; }  /* Kuna croata*/ 
+.ico-HTG { background-position: -157px -262px; }  /* Gourde haitiano*/ 
+.ico-HUF { background-position: -157px -291px; }  /* Florín húngaro*/ 
+.ico-IDR { background-position: -157px -320px; }  /* Rupia indonesia*/ 
+
+.ico-ILS { background-position: -196px -1px; }  /* Shequel israelí*/ 
+.ico-IMP { background-position: -196px -30px; }  /* Libra manesa*/ 
+.ico-INR { background-position: -196px -59px; }  /* Rupia india*/ 
+.ico-IQD { background-position: -196px -88px; }  /* Dinar iraquí*/ 
+.ico-IRR { background-position: -196px -117px; }  /* Rial iraní*/ 
+.ico-ISK { background-position: -196px -146px; }  /* Corona islándica*/ 
+.ico-JEP { background-position: -196px -175px; }  /* Libra de Jersey*/ 
+.ico-JMD { background-position: -196px -204px; }  /* Dólar jamaiquino*/ 
+.ico-JOD { background-position: -196px -233px; }  /* Dinar de Jordania*/ 
+.ico-JPY { background-position: -196px -262px; }  /* Yen japonés*/ 
+.ico-KES { background-position: -196px -291px; }  /* Chelín keniano*/ 
+.ico-KGS { background-position: -196px -320px; }  /* Som kirgistaní*/ 
+
+.ico-KHR { background-position: -235px -1px; }  /* Riel camboyano*/ 
+.ico-KMF { background-position: -235px -30px; }  /* Franco de las Comoras*/ 
+.ico-KPW { background-position: -235px -59px; }  /* Won norcoreano*/ 
+.ico-KRW { background-position: -235px -88px; }  /* Won surcoreano*/ 
+.ico-KWD { background-position: -235px -117px; }  /* Dinar kuwaití*/ 
+.ico-KYD { background-position: -235px -146px; }  /* Dólar de las Caimanes*/ 
+.ico-KZT { background-position: -235px -175px; }  /* Tenge kazajo*/ 
+.ico-LAK { background-position: -235px -204px; }  /* Kip laosiano*/ 
+.ico-LBP { background-position: -235px -233px; }  /* Libra libanesa*/ 
+.ico-LKR { background-position: -235px -262px; }  /* Rupia de Sri Lanka*/ 
+.ico-LRD { background-position: -235px -291px; }  /* Dólar de Liberia*/ 
+.ico-LSL { background-position: -235px -320px; }  /* Loti basotho*/ 
+
+.ico-LYD { background-position: -274px -1px; }  /* Dinar libio*/ 
+.ico-MAD { background-position: -274px -30px; }  /* Dírham marroquí*/ 
+.ico-MDL { background-position: -274px -59px; }  /* Leu moldavo*/ 
+.ico-MGA { background-position: -274px -88px; }  /* Ariary malgache*/ 
+.ico-MKD { background-position: -274px -117px; }  /* Dinar macedonio*/ 
+.ico-MMK { background-position: -274px -146px; }  /* Kyat birmano*/ 
+.ico-MNT { background-position: -274px -175px; }  /* Tugrik mongol*/ 
+.ico-MOP { background-position: -274px -204px; }  /* Pataca de Macao*/ 
+.ico-MRO { background-position: -274px -233px; }  /* Ouguiya mauritano*/ 
+.ico-MUR { background-position: -274px -262px; }  /* Rupia de Mauricio*/ 
+.ico-MVR { background-position: -274px -291px; }  /* Rufiyaa maldiva*/ 
+.ico-MWK { background-position: -274px -320px; }  /* Kwacha malawiano*/ 
+
+.ico-MXN { background-position: -313px -1px; }  /* Peso mexicano*/ 
+.ico-MYR { background-position: -313px -30px; }  /* Ringgit malasio*/ 
+.ico-MZN { background-position: -313px -59px; }  /* Metical mozambiqueño*/ 
+.ico-NAD { background-position: -313px -88px; }  /* Dólar de Namibia*/ 
+.ico-NGN { background-position: -313px -117px; }  /* Naira nigeriana*/ 
+.ico-NIO { background-position: -313px -146px; }  /* Córdoba nicaragüense*/ 
+.ico-NOK { background-position: -313px -175px; }  /* Corona noruega*/ 
+.ico-NPR { background-position: -313px -204px; }  /* Rupia nepalesa*/ 
+.ico-NZD { background-position: -313px -233px; }  /* Dólar neozelandés*/ 
+.ico-OMR { background-position: -313px -262px; }  /* Rial de Omán*/ 
+.ico-PAB { background-position: -313px -291px; }  /* Balboa panameña*/ 
+.ico-PEN { background-position: -313px -320px; }  /* sol peruano*/ 
+
+.ico-PHP  { background-position: -352px -1px; }   /* Peso filipino*/ 
+.ico-PKR  { background-position: -352px -30px; }   /* Rupia pakistaní*/ 
+.ico-PLN  { background-position: -352px -59px; }   /* Zloty polaco*/ 
+.ico-PYG  { background-position: -352px -88px; }   /* Guaraní paraguayo*/ 
+.ico-QAR  { background-position: -352px -117px; }   /* Riyal catarí*/ 
+.ico-RON  { background-position: -352px -146px; }   /* Nuevo leu rumano*/ 
+.ico-RSD  { background-position: -352px -175px; }   /* Dinar serbio*/ 
+.ico-RUB  { background-position: -352px -204px; }   /* Rublo ruso*/ 
+.ico-RWF  { background-position: -352px -233px; }   /* Franco ruandés*/ 
+.ico-SAR  { background-position: -352px -262px; }   /* Riyal de Arabia Saudita*/ 
+.ico-SBD  { background-position: -352px -291px; }   /* Dólar de las Islas Salomón*/ 
+.ico-SCR  { background-position: -352px -320px; }   /* Rupia de las Seychelles*/ 
+
+.ico-SDG  { background-position: -391px -1px; }   /* Libra sudanesa*/ 
+.ico-SEK  { background-position: -391px -30px; }   /* Corona sueca*/ 
+.ico-SGD  { background-position: -391px -59px; }   /* Dólar singapurense*/ 
+.ico-SHP  { background-position: -391px -88px; }   /* Libra de Santa Elena*/ 
+.ico-SLL  { background-position: -391px -117px; }   /* Leone sierraleonés*/ 
+.ico-SOS  { background-position: -391px -146px; }   /* Chelín somalí*/ 
+.ico-SPL  { background-position: -391px -175px; }   /* Luigino de Seborga*/ 
+.ico-SRD  { background-position: -391px -204px; }   /* Dólar surinamés*/ 
+.ico-STD  { background-position: -391px -233px; }   /* Dobra santotomense*/ 
+.ico-SVC  { background-position: -391px -262px; }   /* Colón salvadoreño*/ 
+.ico-SYP  { background-position: -391px -291px; }   /* Libra siria*/ 
+.ico-SZL  { background-position: -391px -320px; }   /* Lilangeni swazi*/ 
+
+.ico-THB  { background-position: -430px -1px; }   /* Baht tailandés*/ 
+.ico-TJS  { background-position: -430px -30px; }   /* Somoni tayiko*/ 
+.ico-TMT  { background-position: -430px -59px; }   /* Manat turkmeno*/ 
+.ico-TND  { background-position: -430px -88px; }   /* Dinar tunisio*/ 
+.ico-TOP  { background-position: -430px -117px; }   /* Pa'anga tonganés*/ 
+.ico-TRY  { background-position: -430px -146px; }   /* Lira turca*/ 
+.ico-TTD  { background-position: -430px -175px; }   /* Dólar de Trinidad*/ 
+.ico-TVD  { background-position: -430px -204px; }   /* Dólar de Tuvalu*/ 
+.ico-TWD  { background-position: -430px -233px; }   /* Nuevo dólar taiwanés*/ 
+.ico-TZS  { background-position: -430px -262px; }   /* Chelín tanzano*/ 
+.ico-UAH  { background-position: -430px -291px; }   /* Grivna ucraniana*/ 
+.ico-UGX  { background-position: -430px -320px; }   /* Chelín ugandés*/ 
+
+.ico-USD  { background-position: -469px -1px; }   /* Dólar estadounidense*/ 
+.ico-UYU  { background-position: -469px -30px; }   /* Peso uruguayo*/ 
+.ico-UZS  { background-position: -469px -59px; }   /* Som uzbeko*/ 
+.ico-VEF  { background-position: -469px -88px; }   /* Bolívar venezolano*/ 
+.ico-VND  { background-position: -469px -117px; }   /* Dong vietnamita*/ 
+.ico-VUV  { background-position: -469px -146px; }   /* Vatu de Ni*/
+.ico-WST  { background-position: -469px -175px; }   /* Tala samoano*/ 
+.ico-YER  { background-position: -469px -204px; }   /* Rial yemení*/ 
+.ico-ZAR  { background-position: -469px -233px; }   /* Rand sudafricano*/ 
+.ico-ZMW  { background-position: -469px -262px; }   /* Kwacha zambiano*/ 
+.ico-ZWD  { background-position: -469px -291px; }   /* Dólar zimbabuense*/ 
+.ico-PGK  { background-position: -469px -320px; }   /* Kina de Papúa Nueva Guinea*/ 
